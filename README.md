@@ -1,2 +1,2 @@
 # Dashboard
-Dashboard Compass
+Dashboard de vendas desenvolvido no estágio da Compass.
